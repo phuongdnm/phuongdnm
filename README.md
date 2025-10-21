@@ -4,8 +4,9 @@
 Welcome to my Github profile page where you can get to know me...
 
 * 🧐   Interested in programming & building large scale systems.
-* 💼   Software Engineer in Hanoi, Vietnam.
-* 🎓   Bachelor of Science in Information and Communication Technology, GPA 3.44/4.0, Ranked 4th.
+* 💼   Ex-Software Engineer in Hanoi, Vietnam.
+* 🎓   Master of Science in Artificial Intelligence (In progress).
+* 🎓   Bachelor of Science in Information and Communication Technology.
 * 🌱   Love learning new technologies. Currently, microservices, deep learning, LLMs and related topics.
 * 🌏   Full professional proficiency in 🇺🇸, Elementary proficiency in 🇯🇵 and 🇫🇷.
 
